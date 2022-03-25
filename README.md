@@ -44,15 +44,13 @@
 
 <div align='center'>
 
-<div align='left' style="width:100">
-<a style='padding:0px' href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center"  src="https://github-readme-stats.vercel.app/api?username=Akib558&show_icons=true&theme=vue" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" height='195' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akib558&theme=vue&layout=compact" />
 </a>
 
-</div>
 
 
 <br>
