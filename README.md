@@ -1,6 +1,7 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="170" height="170"/>
+  <!-- <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="170" height="170"/> -->
+    <img src="main.svg" width="250" height="170"/>
 </div>
 
 <div align='center'>
