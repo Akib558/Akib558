@@ -18,9 +18,9 @@
 
 <br><br>
 
-- 🔭 I’m currently working on [Nautilus Actions and Scripts](https://github.com/Akib558/nautilus_actions)
+<!-- - 🔭 I’m currently working on [Nautilus Actions and Scripts](https://github.com/Akib558/nautilus_actions) -->
 
-- 🌱 I’m currently learning **React & Machine Learning**
+- 🌱 I’m currently learning **Rust and OpenCV**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
