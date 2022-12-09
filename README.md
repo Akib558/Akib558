@@ -53,11 +53,11 @@
 <br>
 <br>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" style='width:100%' src="https://activity-graph.herokuapp.com/graph?username=Akib558&theme=github-light" />
 </a>
 <br>
-<br>
+<br> -->
 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Akib558&theme=vue)  
