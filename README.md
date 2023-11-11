@@ -20,7 +20,7 @@
 
 <!-- - 🔭 I’m currently working on [Nautilus Actions and Scripts](https://github.com/Akib558/nautilus_actions) -->
 
-- 🌱 I’m currently learning **Rust and OpenCV**
+- 🌱 I’m currently learning **Laravel and Flutter**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
