@@ -41,26 +41,33 @@ I'm Akib, a passionate Web Developer. I Spend most of my time coding outstanding
 
 <br>
 
-<div style="display: grid; grid-template-columns: auto auto auto;">
+<div style="margin:auto">
 
-<div style="padding: 5px; text-align: center;">
-  
+<!-- <div style="width:70%"> -->
+
 <!--START_SECTION:waka-->
+
+```txt
+PHP              1 hr 52 mins    ██████████████████▒░░░░░░   73.83 %
+Blade Template   23 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.48 %
+C++              16 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.63 %
+JavaScript       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+```
+
 <!--END_SECTION:waka-->
 
-  </div>
-  
-  
-<div style="padding: 5px; text-align: center;">
+<!-- </div> -->
+<!-- <div style="width:70%"> -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center"  src="https://github-readme-stats.vercel.app/api?username=Akib558&show_icons=true&theme=vue" />
 </a>
-
-  </div>
+<!-- </div> -->
 
 </div>
 
+<br>
 <br>
 
 ![](https://komarev.com/ghpvc/?username=Akib558)
@@ -71,20 +78,11 @@ I'm Akib, a passionate Web Developer. I Spend most of my time coding outstanding
 Some of my amazing projects
 </summary>
 
-<div style="display: grid; grid-template-columns: auto auto auto;">
-
-<div style="padding: 5px; text-align: center;">
+<div style="display:flex">
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Akib558&repo=tracko)](https://github.com/Akib558/tracko)
 
-  </div>
-  
-  
-<div style="padding: 5px; text-align: center;">
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Akib558&repo=tracko)](https://github.com/Akib558/tracko)
-
-  </div>
 
 </div>
 
