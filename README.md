@@ -73,7 +73,7 @@ JSON             0 secs          ░░░░░░░░░░░░░░░�
 <details>
 
 <summary>
-<h4>Some of my amazing projects</h4>
+<h3>Some of my amazing projects</h3>
 </summary>
 
 <center>
