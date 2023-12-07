@@ -46,11 +46,11 @@ I'm Akib, a passionate Web Developer. I Spend most of my time coding outstanding
 <!--START_SECTION:waka-->
 
 ```txt
-PHP              2 hrs 41 mins   █████████▓░░░░░░░░░░░░░░░   38.45 %
-C++              2 hrs 14 mins   ████████░░░░░░░░░░░░░░░░░   32.02 %
-Blade Template   1 hr 15 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.94 %
-Dart             48 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.56 %
-JavaScript       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+PHP              2 hrs 50 mins   █████████▒░░░░░░░░░░░░░░░   36.88 %
+C++              2 hrs 5 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.12 %
+Blade Template   1 hr 58 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.54 %
+Dart             48 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.45 %
+JavaScript       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
