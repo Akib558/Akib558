@@ -46,7 +46,7 @@ I'm Akib, a passionate Web Developer. I Spend most of my time coding outstanding
 <!--START_SECTION:waka-->
 
 ```txt
-C++   0 secs          █████████████████████████   100.00 %
+C++   51 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
