@@ -9,7 +9,7 @@
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif">
 <div align="left">  
  
- 🔭 I’m currently working on **as a Developer**
+ 🔭 I’m currently working as a **Developer**
  
  🌱 I’m currently learning **Laravel, Flutter**
 
