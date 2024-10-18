@@ -9,13 +9,13 @@
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif">
 <div align="left">  
  
- 🔭 I’m currently working as a **Developer**
+ 🔭 I’m currently working as a **Software Engineer**
  
- 🌱 I’m currently learning **Laravel, Flutter**
+ 🌱 I’m currently learning **Dotnet, Android Mobile App Development**
 
-💬 Ask me about **Flutter, Laravel, Firebase... or anything**
+💬 Ask me about **Linux, Dotnet, Flutter, MSSQL... or anything**
 
-<!-- ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs** -->
+⚡ Fun fact: **Studies show that coffee is the most popular drink among developers, but 10% also love tea, and some even prefer energy drinks!**
 
  </div>
  
@@ -63,8 +63,5 @@
 <hr/>
 <!--START_SECTION:waka-->
 
-```txt
-No activity tracked
-```
 
 <!--END_SECTION:waka-->
