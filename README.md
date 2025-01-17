@@ -13,7 +13,7 @@ A passionate software engineer who knows how to keep things light while getting 
     <tr style="border: none">
         <td style="vertical-align: top; width: 5%;"><b>🔭</b></td>
         <td style="vertical-align: top; width: 65%;">Currently working as a <b>Software Engineer</b> – because someone's got to make the magic happen!</td>
-        <td rowspan="3" style="text-align: right; width: 30%; vertical-align: top;">
+        <td rowspan="4" style="text-align: right; width: 30%; vertical-align: top;">
             <img alt="Coding" width="200" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif">
         </td>
     </tr>
