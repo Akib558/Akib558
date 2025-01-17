@@ -8,20 +8,26 @@ A passionate software engineer who knows how to keep things light while getting 
 </h3>
 <br/>
 
-
-
-<table style="border-collapse: collapse; width: 100%; border: none">
+<!-- <table > -->
+<table style="border: 1px solid transparent; border-collapse: collapse;">
+    <tr style="border: none">
+        <td style="vertical-align: top; width: 5%;"><b>🔭</b></td>
+        <td style="vertical-align: top; width: 65%;">Currently working as a <b>Software Engineer</b> – because someone's got to make the magic happen!</td>
+        <td rowspan="3" style="text-align: right; width: 30%; vertical-align: top;">
+            <img alt="Coding" width="200" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif">
+        </td>
+    </tr>
     <tr style="border: none;">
-        <td style="border: none; vertical-align: top; width: 60%;">
-            🔭Currently working as a <b>Software Engineer</b> – because someone's got to make the magic happen!<br />
-            🌱 On a quest to master <b>.NET</b> and <b>Android Mobile App Development</b> – no big deal, just adding more tools to my belt.
-            <br/>
-            💬 Ask me about <b>Linux, .NET, Flutter, MSSQL</b>, or literally anything else – I can talk for hours (with coffee in hand, of course).<br />
-            ⚡ Fun Fact: <b>Morning coffee fuels my code. Some say it’s the key to world domination. But hey, who’s counting?</b>
-        </td>
-         <td style="border: none; vertical-align: top; width: 30%;">
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif">
-        </td>
+        <td style="vertical-align: top;"><b>🌱</b></td>
+        <td>On a quest to master <b>.NET</b> and <b>Android Mobile App Development</b> – no big deal, just adding more tools to my belt.</td>
+    </tr>
+    <tr style="border: none;">
+        <td style="vertical-align: top;"><b>💬</b></td>
+        <td>Ask me about <b>Linux, .NET, Flutter, MSSQL</b>, or literally anything else – I can talk for hours (with coffee in hand, of course).</td>
+    </tr>
+    <tr style="border: none;">
+        <td style="vertical-align: top;"><b>⚡</b></td>
+        <td>Morning coffee fuels my code. Some say it’s the key to world domination. But hey, who’s counting?</td>
     </tr>
 </table>
 
