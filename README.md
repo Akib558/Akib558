@@ -10,7 +10,7 @@ A passionate software engineer who knows how to keep things light while getting 
 
 
 
-<table style="border-collapse: collapse; width: 100%;">
+<table style="border-collapse: collapse; width: 100%; border: none">
     <tr style="border: none;">
         <td style="border: none; vertical-align: top; width: 60%;">
             🔭Currently working as a <b>Software Engineer</b> – because someone's got to make the magic happen!<br />
