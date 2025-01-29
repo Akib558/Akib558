@@ -96,11 +96,11 @@ A passionate software engineer who knows how to keep things light while getting 
 <!--START_SECTION:waka-->
 
 ```txt
-C#           55 mins         ████████████▓░░░░░░░░░░░░   50.91 %
-HTML         28 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.81 %
-TypeScript   16 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.07 %
-SCSS         6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
-JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
+C#           55 mins         ███████▓░░░░░░░░░░░░░░░░░   30.96 %
+HTML         53 mins         ███████▒░░░░░░░░░░░░░░░░░   29.98 %
+TypeScript   29 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.51 %
+SCSS         27 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.29 %
+JSON         12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.96 %
 ```
 
 <!--END_SECTION:waka-->
