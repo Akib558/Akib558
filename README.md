@@ -96,11 +96,11 @@ A passionate software engineer who knows how to keep things light while getting 
 <!--START_SECTION:waka-->
 
 ```txt
-C#               10 hrs 42 mins  ███████████████████░░░░░░   76.30 %
-SQL              1 hr 48 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.84 %
-PHP              42 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
-Dart             22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
-Blade Template   20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+C#               7 hrs 32 mins   ████████████████████░░░░░   80.53 %
+PHP              42 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 %
+Dart             22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
+Blade Template   20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
+SQL              18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
 ```
 
 <!--END_SECTION:waka-->
