@@ -96,9 +96,9 @@ A passionate software engineer who knows how to keep things light while getting 
 <!--START_SECTION:waka-->
 
 ```txt
-C#     3 hrs 8 mins    ██████████████████████▒░░   89.19 %
-Dart   22 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.76 %
-YAML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+C#     2 hrs 32 mins   █████████████████████▓░░░   86.97 %
+Dart   22 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.97 %
+YAML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 XML    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
