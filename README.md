@@ -96,8 +96,9 @@ A passionate software engineer who knows how to keep things light while getting 
 <!--START_SECTION:waka-->
 
 ```txt
-C#    8 mins          █████████████████████████   99.84 %
-XML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+C#    1 hr 24 mins    ████████████████████████▒   97.29 %
+SQL   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
+XML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
