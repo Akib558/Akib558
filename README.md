@@ -75,11 +75,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C#                               2 hrs 11 mins   █████████████████████▒░░░   85.51 %
-MonoGame Content Pipeline File   21 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.80 %
-Text                             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
-XML                              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-GitIgnore file                   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+C#                               1 hr 40 mins    ████████████████████▓░░░░   82.02 %
+MonoGame Content Pipeline File   21 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.19 %
+Text                             0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+XML                              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+GitIgnore file                   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
