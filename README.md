@@ -75,9 +75,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C#               1 hr 52 mins    ████████████████████████▓   98.99 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
-Csproj           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
