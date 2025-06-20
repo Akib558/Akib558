@@ -28,10 +28,10 @@ I enjoy automating workflows, experimenting with Linux tools, and diving into lo
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-Akib-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akib99/)  
+
+![](https://komarev.com/ghpvc/?username=Akib558)
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=flat&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/Xenon01)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/dekacore/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:saidulislamakib99@gmail.com)
 
 ---
 
