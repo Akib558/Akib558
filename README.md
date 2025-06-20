@@ -70,7 +70,5 @@ I enjoy automating workflows, experimenting with Linux tools, and diving into lo
 
 <!--START_SECTION:waka-->
 
-```txt
-No activity tracked
 
 <!--END_SECTION:waka-->
