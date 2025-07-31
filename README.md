@@ -71,7 +71,7 @@ I enjoy automating workflows, experimenting with Linux tools, and diving into lo
 <!--START_SECTION:waka-->
 
 ```txt
-C#   4 mins          █████████████████████████   100.00 %
+C#   13 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
