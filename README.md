@@ -71,10 +71,10 @@ I enjoy automating workflows, experimenting with Linux tools, and diving into lo
 <!--START_SECTION:waka-->
 
 ```txt
-C#                        1 hr 35 mins    ████████████████████████▒   97.65 %
-XML                       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
-JSON                      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
-Csproj                    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+C#                        1 hr 31 mins    ████████████████████████▒   97.54 %
+XML                       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+JSON                      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+Csproj                    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
 Project file properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
