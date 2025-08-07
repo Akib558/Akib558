@@ -71,11 +71,11 @@ I enjoy automating workflows, experimenting with Linux tools, and diving into lo
 <!--START_SECTION:waka-->
 
 ```txt
-C#                        7 hrs 18 mins   ██████████████████████▒░░   89.46 %
-Markdown                  33 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.89 %
-HTML                      10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
-XML                       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
-Csproj                    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+C#                        7 hrs 9 mins    ██████████████████████▒░░   89.25 %
+Markdown                  33 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.03 %
+HTML                      10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
+XML                       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+Csproj                    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
