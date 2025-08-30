@@ -71,8 +71,7 @@ I enjoy automating workflows, experimenting with Linux tools, and diving into lo
 <!--START_SECTION:waka-->
 
 ```txt
-C#     23 mins         ████████████████████████▓   98.95 %
-Bash   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
