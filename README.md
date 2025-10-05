@@ -71,8 +71,7 @@ I enjoy automating workflows, experimenting with Linux tools, and diving into lo
 <!--START_SECTION:waka-->
 
 ```txt
-C#              3 hrs 29 mins   ████████████████████████░   95.55 %
-Solution File   9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
+C#   3 hrs 29 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
