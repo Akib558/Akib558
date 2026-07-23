@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=4000&pause=1000&color=A84E28&center=true&vCenter=true&width=360&lines=akib." alt="akib." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2600&pause=900&color=A84E28&center=true&vCenter=true&width=440&lines=akib.;backend+engineer;identity+%26+data+systems;.NET+%C2%B7+Angular+%C2%B7+Go" alt="akib." />
 
 <br />
 
@@ -26,8 +26,9 @@
 | | |
 |:---|:---|
 | **role** | Software Engineer 1 @ [Netpower](https://netpower.no/) |
-| **mode** | Hybrid · Dhaka |
+| **mode** | Hybrid · Dhaka · GMT+6 |
 | **focus** | SCIM · OAuth 2.0 / Entra ID · enterprise data migration · Snyk |
+| **before** | 2 yrs @ TechnoNext — 5 live OTA platforms, 30K+ users |
 | **writing** | [Inkspire](https://blog.saidulakib.dev/) — where thoughts find clarity |
 
 <br />
@@ -39,7 +40,7 @@
 | backend | C# · .NET 8 · ASP.NET Core · Dapper · EF Core |
 | identity | OAuth 2.0 · SCIM · Microsoft Entra ID · JWT |
 | data | SQL Server · PostgreSQL |
-| frontend | Angular · TypeScript |
+| frontend | Angular · TypeScript · RxJS |
 | ops | Docker · GitLab CI · Linux · Bash · Snyk |
 
 <br />
@@ -54,7 +55,7 @@
 
 `.NET 8` · `Angular` · `SignalR` · `JWT`
 
-Full-stack task management — RBAC, real-time board sync, structured layers built to last.
+Full-stack task management — RBAC with refresh-token rotation, real-time board sync, layered architecture built to last.
 
 </td>
 <td width="50%" valign="top">
@@ -63,7 +64,7 @@ Full-stack task management — RBAC, real-time board sync, structured layers bui
 
 `Flutter` · `Riverpod` · `Hive`
 
-Production-grade companion app — feature-first modules, offline persistence, thoughtful UX.
+Islamic companion app — feature-first modules, `Result<T>` error handling, offline-first persistence.
 
 </td>
 </tr>
@@ -74,14 +75,14 @@ Production-grade companion app — feature-first modules, offline persistence, t
 
 `Go` · `Bubble Tea` · `Docker SDK`
 
-Keyboard-first Docker dashboard — live telemetry, compose grouping, exec workflows.
+Keyboard-first Docker dashboard — live telemetry, persisted sparklines, compose grouping, exec workflows.
 
 </td>
 <td width="50%" valign="top">
 
 ### [devakib.com](https://devakib.com)
 
-`Angular 19` · `MONOLITH`
+`Angular 19` · `TypeScript`
 
 Personal portfolio — custom scroll UX, activity charts, terminal easter egg.
 
