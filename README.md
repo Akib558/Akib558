@@ -82,7 +82,7 @@ Personal portfolio — custom scroll UX, activity charts, terminal easter egg.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Akib558&show_icons=true&theme=dark&hide_border=true&title_color=A84E28&icon_color=A84E28&text_color=F7F3EC&bg_color=0d1117&rank_icon=percentile&count_private=true" height="165" alt="GitHub stats" />
+<img src="https://raw.githubusercontent.com/Akib558/Akib558/main/assets/metrics.svg" width="95%" alt="GitHub metrics" />
 
 <br /><br />
 

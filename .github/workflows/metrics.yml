@@ -1,0 +1,34 @@
+name: Metrics
+
+on:
+  schedule:
+    # daily at 01:30 UTC
+    - cron: "30 1 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate metrics.svg
+        uses: lowlighter/metrics@v3.34
+        with:
+          # classic PAT (read:user, repo) — add as repo secret METRICS_TOKEN
+          token: ${{ secrets.METRICS_TOKEN }}
+          # commits the generated file back to the repo
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          filename: assets/metrics.svg
+          template: terminal
+          base: header, activity, community, repositories
+          config_timezone: Asia/Dhaka
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_details: bytes-size, percentage
+          # warm-dark background to match the README theme
+          extras_css: |
+            pre { background: #14100e !important; }
