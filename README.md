@@ -23,12 +23,12 @@
 
 ## `now`
 
-**Software Engineer 1** @ [Netpower](https://netpower.no/) · Remote
-
-- SCIM provisioning
-- OAuth 2.0 / Microsoft Entra ID
-- enterprise data migration
-- DevSecOps · Snyk
+| | |
+|:---|:---|
+| **role** | Software Engineer 1 @ [Netpower](https://netpower.no/) |
+| **mode** | Hybrid · Dhaka |
+| **focus** | SCIM · OAuth 2.0 / Entra ID · enterprise data migration · Snyk |
+| **writing** | [Inkspire](https://blog.saidulakib.dev/) — where thoughts find clarity |
 
 <br />
 
@@ -37,9 +37,10 @@
 | area | tools |
 |:---|:---|
 | backend | C# · .NET 8 · ASP.NET Core · Dapper · EF Core |
+| identity | OAuth 2.0 · SCIM · Microsoft Entra ID · JWT |
 | data | SQL Server · PostgreSQL |
 | frontend | Angular · TypeScript |
-| ops | Docker · GitLab CI · Linux · Bash |
+| ops | Docker · GitLab CI · Linux · Bash · Snyk |
 
 <br />
 
@@ -51,7 +52,7 @@
 
 ### [TaskFlow](https://github.com/Akib558/TaskFlow)
 
-` .NET 8 ` ` Angular ` ` SignalR ` ` JWT ` ` CI/CD `
+`.NET 8` · `Angular` · `SignalR` · `JWT`
 
 Full-stack task management — RBAC, real-time board sync, structured layers built to last.
 
@@ -60,7 +61,7 @@ Full-stack task management — RBAC, real-time board sync, structured layers bui
 
 ### [Iman](https://github.com/Akib558/iman)
 
-` Flutter ` ` Riverpod ` ` clean architecture `
+`Flutter` · `Riverpod` · `Hive`
 
 Production-grade companion app — feature-first modules, offline persistence, thoughtful UX.
 
@@ -71,7 +72,7 @@ Production-grade companion app — feature-first modules, offline persistence, t
 
 ### [docker-tui](https://github.com/Akib558/docker-tui)
 
-` Go ` ` Bubble Tea ` ` Docker SDK `
+`Go` · `Bubble Tea` · `Docker SDK`
 
 Keyboard-first Docker dashboard — live telemetry, compose grouping, exec workflows.
 
@@ -80,9 +81,9 @@ Keyboard-first Docker dashboard — live telemetry, compose grouping, exec workf
 
 ### [devakib.com](https://devakib.com)
 
-` Angular 19 ` ` MONOLITH `
+`Angular 19` · `MONOLITH`
 
-This portfolio — custom scroll UX, activity charts, terminal easter egg, personal design language.
+Personal portfolio — custom scroll UX, activity charts, terminal easter egg.
 
 </td>
 </tr>
@@ -139,6 +140,6 @@ exploring: Kubernetes · Redis · gRPC · keyset pagination
 
 <br /><br />
 
-<sub>engineered with restraint · dhaka · gmt+6</sub>
+<sub>engineered with restraint · hybrid · dhaka · gmt+6</sub>
 
 </div>
