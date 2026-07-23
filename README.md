@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=4000&pause=1000&color=A84E28&center=true&vCenter=true&width=340&lines=akib." alt="akib." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=4000&pause=1000&color=A84E28&center=true&vCenter=true&width=360&lines=akib." alt="akib." />
 
 <br />
 
-**Software Engineer 1** · Backend & .NET · Dhaka, Bangladesh
+<strong>Software Engineer 1</strong> · Backend &amp; .NET · Dhaka, Bangladesh
 
 <br />
 
-[![Portfolio](https://img.shields.io/badge/—_portfolio-devakib.com-A84E28?style=flat-square)](https://devakib.com)
-[![Blog](https://img.shields.io/badge/—_writing-Inkspire-1C1814?style=flat-square)](https://blog.saidulakib.dev/)
-[![LinkedIn](https://img.shields.io/badge/—_linkedin-in%2Fakib99-0A66C2?style=flat-square)](https://www.linkedin.com/in/akib99/)
-[![Email](https://img.shields.io/badge/—_email-me-EA4335?style=flat-square)](mailto:saidulislamakib99@gmail.com)
+<a href="https://devakib.com"><img src="https://img.shields.io/badge/portfolio-devakib.com-A84E28?style=flat-square" alt="Portfolio" /></a>
+<a href="https://blog.saidulakib.dev/"><img src="https://img.shields.io/badge/writing-Inkspire-1C1814?style=flat-square" alt="Blog" /></a>
+<a href="https://www.linkedin.com/in/akib99/"><img src="https://img.shields.io/badge/linkedin-in%2Fakib99-0A66C2?style=flat-square" alt="LinkedIn" /></a>
+<a href="mailto:saidulislamakib99@gmail.com"><img src="https://img.shields.io/badge/email-me-EA4335?style=flat-square" alt="Email" /></a>
 
 </div>
 
@@ -21,56 +21,46 @@
 
 <br />
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## `now`
 
-### `now`
-
-```text
-Software Engineer 1
-@ Netpower · Remote
-```
+**Software Engineer 1** @ [Netpower](https://netpower.no/) · Remote
 
 - SCIM provisioning
-- OAuth 2.0 / Entra ID
+- OAuth 2.0 / Microsoft Entra ID
 - enterprise data migration
 - DevSecOps · Snyk
 
-</td>
-<td width="50%" valign="top">
+<br />
 
-### `stack`
+## `stack`
 
-```text
-backend  → C# · .NET 8 · ASP.NET Core
-data     → SQL Server · PostgreSQL
-frontend → Angular · TypeScript
-ops      → Docker · GitLab CI · Linux
-```
-
-</td>
-</tr>
-</table>
+| area | tools |
+|:---|:---|
+| backend | C# · .NET 8 · ASP.NET Core · Dapper · EF Core |
+| data | SQL Server · PostgreSQL |
+| frontend | Angular · TypeScript |
+| ops | Docker · GitLab CI · Linux · Bash |
 
 <br />
 
-### `selected work`
+## `selected work`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**[TaskFlow](https://github.com/Akib558/TaskFlow)**
-<br /><sub>.NET 8 · Angular · SignalR · JWT · CI/CD</sub>
+### [TaskFlow](https://github.com/Akib558/TaskFlow)
+
+` .NET 8 ` ` Angular ` ` SignalR ` ` JWT ` ` CI/CD `
 
 Full-stack task management — RBAC, real-time board sync, structured layers built to last.
 
 </td>
 <td width="50%" valign="top">
 
-**[Iman](https://github.com/Akib558/iman)**
-<br /><sub>Flutter · Riverpod · clean architecture</sub>
+### [Iman](https://github.com/Akib558/iman)
+
+` Flutter ` ` Riverpod ` ` clean architecture `
 
 Production-grade companion app — feature-first modules, offline persistence, thoughtful UX.
 
@@ -79,16 +69,18 @@ Production-grade companion app — feature-first modules, offline persistence, t
 <tr>
 <td width="50%" valign="top">
 
-**[docker-tui](https://github.com/Akib558/docker-tui)**
-<br /><sub>Go · Bubble Tea · Docker SDK</sub>
+### [docker-tui](https://github.com/Akib558/docker-tui)
+
+` Go ` ` Bubble Tea ` ` Docker SDK `
 
 Keyboard-first Docker dashboard — live telemetry, compose grouping, exec workflows.
 
 </td>
 <td width="50%" valign="top">
 
-**[devakib.com](https://devakib.com)**
-<br /><sub>Angular 19 · MONOLITH design system</sub>
+### [devakib.com](https://devakib.com)
+
+` Angular 19 ` ` MONOLITH `
 
 This portfolio — custom scroll UX, activity charts, terminal easter egg, personal design language.
 
@@ -100,13 +92,15 @@ This portfolio — custom scroll UX, activity charts, terminal easter egg, perso
 
 <br />
 
+## `activity`
+
 <div align="center">
 
-### `activity`
-
 <img src="https://github-readme-stats.vercel.app/api?username=Akib558&show_icons=true&theme=dark&hide_border=true&title_color=A84E28&icon_color=A84E28&text_color=F7F3EC&bg_color=0d1117&rank_icon=percentile&count_private=true" alt="GitHub stats" width="380" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akib558&layout=compact&theme=dark&hide_border=true&title_color=A84E28&text_color=F7F3EC&bg_color=0d1117&card_width=200" alt="Top languages" width="320" />
+
+<br /><br />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akib558&layout=compact&theme=dark&hide_border=true&title_color=A84E28&text_color=F7F3EC&bg_color=0d1117&card_width=220" alt="Top languages" width="320" />
 
 <br /><br />
 
@@ -129,7 +123,7 @@ prefers:
 
 recent_wins:
   - OAuth 2.0 + Entra ID replaced fixed-token auth
-  - 2× query gains via execution-plan analysis + EF projections
+  - 2x query gains via execution-plan analysis + EF projections
   - Memcached JWT caching across 5 OTA platforms under load
 
 exploring: Kubernetes · Redis · gRPC · keyset pagination
@@ -141,9 +135,9 @@ exploring: Kubernetes · Redis · gRPC · keyset pagination
 
 <div align="center">
 
-[Codeforces](https://codeforces.com/profile/Xenon01) · [LeetCode](https://leetcode.com/dekacore/)
+<a href="https://codeforces.com/profile/Xenon01">Codeforces</a> · <a href="https://leetcode.com/dekacore/">LeetCode</a>
 
-<br />
+<br /><br />
 
 <sub>engineered with restraint · dhaka · gmt+6</sub>
 
