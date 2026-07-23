@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="360" viewBox="0 0 900 360" fill="none" role="img" aria-label="akib — backend engineer terminal">
+  <style>
+    :root { color-scheme: dark; }
+    .win   { fill: #0d1117; stroke: #232830; stroke-width: 1.5; }
+    .bar   { fill: #161b22; }
+    .mono  { font-family: 'JetBrains Mono','SFMono-Regular',ui-monospace,Consolas,monospace; }
+    .dim   { fill: #6e7681; }
+    .fg    { fill: #f7f3ec; }
+    .rust  { fill: #a84e28; }
+    .green { fill: #3fb950; }
+    .prompt{ fill: #a84e28; font-weight: 700; }
+
+    /* staggered reveal */
+    .line { opacity: 0; transform: translateX(8px); animation: in .45s ease forwards; }
+    @keyframes in { to { opacity: 1; transform: translateX(0); } }
+    .l1{animation-delay:.3s}.l2{animation-delay:.9s}.l3{animation-delay:1.5s}
+    .l4{animation-delay:2.1s}.l5{animation-delay:2.7s}.l6{animation-delay:3.3s}
+    .l7{animation-delay:3.9s}.l8{animation-delay:4.6s}.l9{animation-delay:5.2s}
+
+    /* status dots pulse */
+    .pulse { animation: pulse 2.4s ease-in-out infinite; }
+    @keyframes pulse { 0%,100%{opacity:1} 50%{opacity:.35} }
+
+    /* blinking caret */
+    .caret { animation: blink 1.05s steps(1) infinite; animation-delay: 5.6s; opacity: 0; }
+    @keyframes blink { 0%,49%{opacity:1} 50%,100%{opacity:0} }
+  </style>
+
+  <!-- window -->
+  <rect class="win" x="1" y="1" width="898" height="358" rx="14"/>
+  <rect class="bar" x="1.5" y="1.5" width="897" height="40" rx="14"/>
+  <rect class="bar" x="1.5" y="26" width="897" height="16"/>
+  <circle cx="26" cy="21" r="6" fill="#ff5f56"/>
+  <circle cx="48" cy="21" r="6" fill="#ffbd2e"/>
+  <circle cx="70" cy="21" r="6" fill="#27c93f"/>
+  <text class="mono dim" x="450" y="26" font-size="13" text-anchor="middle">akib@netpower — zsh</text>
+
+  <!-- body -->
+  <g class="mono" font-size="16">
+    <text class="line l1" x="28" y="82"><tspan class="prompt">$</tspan> <tspan class="fg">akib --whoami</tspan></text>
+    <text class="line l2" x="28" y="108"><tspan class="rust">→</tspan> <tspan class="dim">Software Engineer · backend, identity &amp; data systems · Dhaka</tspan></text>
+
+    <text class="line l3" x="28" y="150"><tspan class="prompt">$</tspan> <tspan class="fg">systemctl status --user</tspan></text>
+    <g class="line l4"><circle class="pulse green" cx="34" cy="171" r="5"/><text x="50" y="176"><tspan class="fg">identity.service</tspan>       <tspan class="dim">active (running) · SCIM · OAuth 2.0 · Entra ID</tspan></text></g>
+    <g class="line l5"><circle class="pulse green" cx="34" cy="197" r="5"/><text x="50" y="202"><tspan class="fg">data-migration.service</tspan> <tspan class="dim">active (running) · idempotent · deterministic</tspan></text></g>
+    <g class="line l6"><circle class="pulse green" cx="34" cy="223" r="5"/><text x="50" y="228"><tspan class="fg">netpower.platform</tspan>      <tspan class="dim">active (running) · .NET 8 · production</tspan></text></g>
+
+    <text class="line l7" x="28" y="270"><tspan class="prompt">$</tspan> <tspan class="fg">echo $STACK</tspan></text>
+    <text class="line l8" x="28" y="296"><tspan class="rust">→</tspan> <tspan class="dim">C# · .NET · Angular · Go · SQL Server · Postgres · Docker</tspan></text>
+
+    <text class="line l9" x="28" y="330"><tspan class="prompt">$</tspan> <tspan class="fg"> </tspan><tspan class="caret rust">█</tspan></text>
+  </g>
+</svg>
