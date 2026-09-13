@@ -16,10 +16,17 @@
     .sans { font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
     .mono { font-family: "SFMono-Regular", Consolas, "Liberation Mono", monospace; }
     .cursor { animation: blink 1.4s steps(1, end) infinite; }
+    .greeting-char { animation: letter-in 4s steps(1, end) infinite; animation-delay: calc(var(--i) * 90ms); opacity: 0; }
 
     @keyframes blink {
       0%, 48% { opacity: 1; }
       49%, 100% { opacity: 0; }
+    }
+
+    @keyframes letter-in {
+      0%, 5% { opacity: 0; }
+      6%, 80% { opacity: 1; }
+      90%, 100% { opacity: 0; }
     }
 
     @media (prefers-color-scheme: dark) {
@@ -36,6 +43,7 @@
 
     @media (prefers-reduced-motion: reduce) {
       .cursor { animation: none; }
+      .greeting-char { animation: none; opacity: 1; }
     }
   </style>
 
@@ -43,7 +51,7 @@
 
   <g class="sans">
     <text x="52" y="62" fill="var(--accent)" font-size="12" font-weight="700" letter-spacing="2.4">WEB &#183; MOBILE &#183; TERMINAL</text>
-    <text x="50" y="126" fill="var(--ink)" font-size="56" font-weight="700" letter-spacing="-2.1">Hi, I'm Akib.</text>
+    <text class="greeting" x="50" y="126" fill="var(--ink)" font-size="56" font-weight="700" letter-spacing="-2.1" xml:space="preserve" aria-label="Hi, I'm Akib."><tspan class="greeting-char" style="--i:0">H</tspan><tspan class="greeting-char" style="--i:1">i</tspan><tspan class="greeting-char" style="--i:2">,</tspan><tspan class="greeting-char" style="--i:3"> </tspan><tspan class="greeting-char" style="--i:4">I</tspan><tspan class="greeting-char" style="--i:5">'</tspan><tspan class="greeting-char" style="--i:6">m</tspan><tspan class="greeting-char" style="--i:7"> </tspan><tspan class="greeting-char" style="--i:8">A</tspan><tspan class="greeting-char" style="--i:9">k</tspan><tspan class="greeting-char" style="--i:10">i</tspan><tspan class="greeting-char" style="--i:11">b</tspan><tspan class="greeting-char" style="--i:12">.</tspan></text>
     <rect x="52" y="145" width="52" height="3" rx="1.5" fill="var(--accent)" />
     <text x="52" y="184" fill="var(--ink)" font-size="18" font-weight="600">Full-stack developer &#183; apps, products, tools</text>
     <text x="52" y="214" fill="var(--muted)" font-size="15">Dhaka, Bangladesh &#183; GMT+6</text>
