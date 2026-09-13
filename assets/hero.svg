@@ -1,72 +1,84 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="360" viewBox="0 0 900 360" fill="none" role="img" aria-label="akib — backend engineer terminal">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0e1218"/>
-      <stop offset="0.55" stop-color="#0b0e13"/>
-      <stop offset="1" stop-color="#120d0b"/>
-    </linearGradient>
-    <linearGradient id="barg" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#1b2028"/>
-      <stop offset="1" stop-color="#141922"/>
-    </linearGradient>
-    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#2a3038"/>
-      <stop offset="1" stop-color="#3a2418"/>
-    </linearGradient>
-    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
-      <feGaussianBlur stdDeviation="2.4" result="b"/>
-      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-  </defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="280" viewBox="0 0 900 280" role="img" aria-labelledby="title desc">
+  <title id="title">Hi, I'm Akib.</title>
+  <desc id="desc">Full-stack developer in Dhaka building web products, mobile apps, and open-source tools.</desc>
 
   <style>
-    .mono   { font-family: 'JetBrains Mono','SFMono-Regular',ui-monospace,Consolas,monospace; }
-    .prompt { fill: #e0662f; font-weight: 700; }
-    .cmd    { fill: #eef2f7; }
-    .flag   { fill: #e0b155; }        /* amber */
-    .svc    { fill: #79a6f6; }        /* soft blue */
-    .tech   { fill: #4ec9b0; }        /* teal */
-    .str    { fill: #c9d4e3; }
-    .dim    { fill: #5f6b7a; }
-    .arrow  { fill: #e0662f; }
-    .ok     { fill: #4ac26b; }        /* green */
+    :root {
+      --canvas: #fbfaf7;
+      --surface: #ffffff;
+      --ink: #171717;
+      --muted: #626262;
+      --line: #dedbd4;
+      --accent: #a84e28;
+      --accent-soft: #f3e5dc;
+    }
 
-    .line { opacity: 0; transform: translateX(8px); animation: in .45s ease forwards; }
-    @keyframes in { to { opacity: 1; transform: translateX(0); } }
-    .l1{animation-delay:.3s}.l2{animation-delay:.9s}.l3{animation-delay:1.5s}
-    .l4{animation-delay:2.1s}.l5{animation-delay:2.7s}.l6{animation-delay:3.3s}
-    .l7{animation-delay:3.9s}.l8{animation-delay:4.6s}.l9{animation-delay:5.2s}
+    .sans { font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    .mono { font-family: "SFMono-Regular", Consolas, "Liberation Mono", monospace; }
+    .cursor { animation: blink 1.4s steps(1, end) infinite; }
 
-    .pulse { animation: pulse 2.4s ease-in-out infinite; }
-    @keyframes pulse { 0%,100%{opacity:1} 50%{opacity:.4} }
+    @keyframes blink {
+      0%, 48% { opacity: 1; }
+      49%, 100% { opacity: 0; }
+    }
 
-    .caret { animation: blink 1.05s steps(1) infinite; animation-delay: 5.6s; opacity: 0; }
-    @keyframes blink { 0%,49%{opacity:1} 50%,100%{opacity:0} }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --canvas: #0d1117;
+        --surface: #161b22;
+        --ink: #f0f3f6;
+        --muted: #9198a1;
+        --line: #30363d;
+        --accent: #d08a64;
+        --accent-soft: #2b211d;
+      }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      .cursor { animation: none; }
+    }
   </style>
 
-  <!-- window -->
-  <rect x="1.5" y="1.5" width="897" height="357" rx="14" fill="url(#bg)" stroke="url(#edge)" stroke-width="1.5"/>
-  <rect x="2" y="2" width="896" height="40" rx="13" fill="url(#barg)"/>
-  <rect x="2" y="28" width="896" height="14" fill="#141922"/>
-  <line x1="2" y1="42" x2="898" y2="42" stroke="#252b34" stroke-width="1"/>
-  <circle cx="26" cy="21" r="6" fill="#ff5f56"/>
-  <circle cx="48" cy="21" r="6" fill="#ffbd2e"/>
-  <circle cx="70" cy="21" r="6" fill="#27c93f"/>
-  <text class="mono dim" x="450" y="26" font-size="13" text-anchor="middle">akib@netpower — zsh</text>
+  <rect x="1" y="1" width="898" height="278" rx="24" fill="var(--canvas)" stroke="var(--line)" />
 
-  <!-- body -->
-  <g class="mono" font-size="16">
-    <text class="line l1" x="28" y="82"><tspan class="prompt">$</tspan> <tspan class="cmd">akib</tspan> <tspan class="flag">--whoami</tspan></text>
-    <text class="line l2" x="28" y="108"><tspan class="arrow">→</tspan> <tspan class="str">Software Engineer</tspan> <tspan class="dim">· backend, identity &amp; data systems · Dhaka</tspan></text>
+  <g class="sans">
+    <text x="52" y="62" fill="var(--accent)" font-size="12" font-weight="700" letter-spacing="2.4">WEB &#183; MOBILE &#183; TERMINAL</text>
+    <text x="50" y="126" fill="var(--ink)" font-size="56" font-weight="700" letter-spacing="-2.1">Hi, I'm Akib.</text>
+    <rect x="52" y="145" width="52" height="3" rx="1.5" fill="var(--accent)" />
+    <text x="52" y="184" fill="var(--ink)" font-size="18" font-weight="600">Full-stack developer &#183; apps, products, tools</text>
+    <text x="52" y="214" fill="var(--muted)" font-size="15">Dhaka, Bangladesh &#183; GMT+6</text>
+  </g>
 
-    <text class="line l3" x="28" y="150"><tspan class="prompt">$</tspan> <tspan class="cmd">systemctl</tspan> <tspan class="cmd">status</tspan> <tspan class="flag">--user</tspan></text>
-    <g class="line l4"><circle class="pulse ok" cx="34" cy="171" r="5"/><text x="50" y="176"><tspan class="svc">identity.service</tspan> <tspan class="ok">active (running)</tspan> <tspan class="dim">· SCIM · OAuth 2.0 · Entra ID</tspan></text></g>
-    <g class="line l5"><circle class="pulse ok" cx="34" cy="197" r="5"/><text x="50" y="202"><tspan class="svc">data-migration.service</tspan> <tspan class="ok">active (running)</tspan> <tspan class="dim">· idempotent · deterministic</tspan></text></g>
-    <g class="line l6"><circle class="pulse ok" cx="34" cy="223" r="5"/><text x="50" y="228"><tspan class="svc">netpower.platform</tspan> <tspan class="ok">active (running)</tspan> <tspan class="dim">· .NET 8 · production</tspan></text></g>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M574 222H842" stroke="var(--line)" stroke-width="2" />
 
-    <text class="line l7" x="28" y="270"><tspan class="prompt">$</tspan> <tspan class="cmd">echo</tspan> <tspan class="flag">$STACK</tspan></text>
-    <text class="line l8" x="28" y="296"><tspan class="arrow">→</tspan> <tspan class="tech">C#</tspan><tspan class="dim"> · </tspan><tspan class="tech">.NET</tspan><tspan class="dim"> · </tspan><tspan class="tech">Angular</tspan><tspan class="dim"> · </tspan><tspan class="tech">Go</tspan><tspan class="dim"> · </tspan><tspan class="tech">SQL Server</tspan><tspan class="dim"> · </tspan><tspan class="tech">Postgres</tspan><tspan class="dim"> · </tspan><tspan class="tech">Docker</tspan></text>
+    <rect x="650" y="52" width="188" height="140" rx="12" fill="var(--surface)" stroke="var(--line)" stroke-width="2" />
+    <path d="M650 80H838" stroke="var(--line)" stroke-width="2" />
+    <circle cx="670" cy="66" r="3.5" fill="var(--accent)" />
+    <circle cx="682" cy="66" r="3.5" fill="var(--line)" />
+    <circle cx="694" cy="66" r="3.5" fill="var(--line)" />
 
-    <text class="line l9" x="28" y="330"><tspan class="prompt">$</tspan> <tspan class="caret arrow" filter="url(#glow)">█</tspan></text>
+    <path d="M678 113H716M730 113H808" stroke="var(--line)" stroke-width="2" />
+    <path d="M678 143H735M749 143H808" stroke="var(--line)" stroke-width="2" />
+    <circle cx="678" cy="113" r="5" fill="var(--accent-soft)" stroke="var(--accent)" stroke-width="2" />
+    <circle cx="730" cy="113" r="5" fill="var(--accent-soft)" stroke="var(--accent)" stroke-width="2" />
+    <circle cx="808" cy="113" r="5" fill="var(--accent)" stroke="var(--accent)" stroke-width="2" />
+    <circle cx="678" cy="143" r="5" fill="var(--accent-soft)" stroke="var(--accent)" stroke-width="2" />
+    <circle cx="749" cy="143" r="5" fill="var(--accent-soft)" stroke="var(--accent)" stroke-width="2" />
+    <rect class="cursor" x="786" y="163" width="18" height="3" rx="1.5" fill="var(--accent)" stroke="none" />
+
+    <circle cx="590" cy="110" r="21" fill="var(--accent-soft)" stroke="var(--accent)" stroke-width="2" />
+    <path d="M571 105C577 97 584 93 594 93C603 93 610 97 615 104" stroke="var(--accent)" stroke-width="2" />
+    <path d="M570 138C552 151 548 178 554 211" stroke="var(--ink)" stroke-width="3" />
+    <path d="M570 138C585 132 604 135 614 148L631 171" stroke="var(--ink)" stroke-width="3" />
+    <path d="M588 153L616 180H656" stroke="var(--ink)" stroke-width="3" />
+    <path d="M554 211H612M578 211L594 239M554 211L542 239" stroke="var(--ink)" stroke-width="3" />
+    <path d="M611 185V222M600 222H622" stroke="var(--line)" stroke-width="2" />
+  </g>
+
+  <g class="mono" fill="var(--muted)" font-size="9" font-weight="600">
+    <text x="670" y="101">WEB</text>
+    <text x="722" y="101">APP</text>
+    <text x="793" y="101">CLI</text>
   </g>
 </svg>
