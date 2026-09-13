@@ -1,17 +1,28 @@
-name: Waka Readme
+name: Update WakaTime
 
 on:
-  # for manual workflow trigger
   workflow_dispatch:
   schedule:
-    # runs at 12 AM UTC (5:30 AM IST)
-    - cron: "0 0 * * *"
+    - cron: "17 0 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-readme
+  cancel-in-progress: false
 
 jobs:
-  update-readme:
-    name: WakaReadme DevMetrics
+  update:
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master # this action name
+      - name: Update weekly coding activity
+        uses: athul/waka-readme@370590ad8da8f54282ed92aa42b7c25ecbd5a9a6 # master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          TARGET_BRANCH: main
+          TIME_RANGE: last_7_days
+          LANG_COUNT: "5"
+          SHOW_TIME: "true"
+          SHOW_TOTAL: "true"
+          COMMIT_MESSAGE: "chore: update WakaTime stats"
