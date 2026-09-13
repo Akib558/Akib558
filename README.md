@@ -3,7 +3,7 @@
 
   <br />
 
-  <a href="https://saidulakib.dev">portfolio</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://blog.saidulakib.dev">writing</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://www.linkedin.com/in/akib99/">linkedin</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="mailto:saidulislamakib99@gmail.com">email</a>
+  <kbd>&nbsp;&nbsp;<strong><a href="https://saidulakib.dev">Portfolio ↗</a></strong>&nbsp;&nbsp;</kbd>&nbsp; <kbd>&nbsp;&nbsp;<strong><a href="https://blog.saidulakib.dev">Writing ↗</a></strong>&nbsp;&nbsp;</kbd>&nbsp; <kbd>&nbsp;&nbsp;<strong><a href="https://www.linkedin.com/in/akib99/">LinkedIn ↗</a></strong>&nbsp;&nbsp;</kbd>&nbsp; <kbd>&nbsp;&nbsp;<strong><a href="mailto:saidulislamakib99@gmail.com">Email ↗</a></strong>&nbsp;&nbsp;</kbd>
 </div>
 
 <br />
